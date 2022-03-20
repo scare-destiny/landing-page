@@ -8,4 +8,4 @@ I personally support them and follow their activity.
 
 Glory To Ukraine!
 
-P.S. Thanks To *The Odin Project* For Guidance 🙏
+P.S. Thanks To **The Odin Project** For Guidance 🙏
