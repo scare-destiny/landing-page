@@ -7,3 +7,5 @@ For those who want to help Ukrainians, I prepared a list of trusted charity orga
 I personally support them and follow their activity.
 
 Glory To Ukraine!
+
+P.S. Thanks To *The Odin Project* For Guidance 🙏
