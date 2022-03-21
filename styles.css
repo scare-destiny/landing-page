@@ -42,7 +42,7 @@
 
   .header img {
   	display: flex;
-  	max-width: 500px;
+  	max-width: 100%;
   }
 
   .header-content button {
