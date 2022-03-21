@@ -1,4 +1,4 @@
-# Save Ukraine Now 🇺🇦❤️
+# Save Ukraine Now 🇺🇦❤️‍🔥
 
 On 24 February 2022, Russia launched a military attack on Ukraine. Civilians are dying each day due to Russia's acts of aggression against Ukraine.
 
