@@ -202,11 +202,11 @@
   	line-height: 1;
   	font-family: ErmilovBold;
   	font-weight: 300;
+	text-decoration: none;
   }
 
   /* Add a heart before links */
-a::before {
+.footer a::before {
 	content: "❤️‍🔥";
 	margin-right:5px;
-	text-decoration: none;
   }
