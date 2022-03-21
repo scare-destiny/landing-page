@@ -203,3 +203,10 @@
   	font-family: ErmilovBold;
   	font-weight: 300;
   }
+
+  /* Add a heart before links */
+a::before {
+	content: "❤️‍🔥";
+	margin-right:5px;
+	text-decoration: none;
+  }
